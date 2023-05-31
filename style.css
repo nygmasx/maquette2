@@ -102,11 +102,8 @@ p {
 .box .search-box {
   position: relative;
   height: 50px;
-  max-width: 50px;
-  margin: auto;
   border-radius: 25px;
-  transition: all 0.3s ease;
-  max-width: 380px;
+  max-width: 450px;
 }
 
 .search-box input {
